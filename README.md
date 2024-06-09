@@ -1,7 +1,7 @@
 # Firebase Chat Application
 
 ## Overview
-Welcome to the Firebase Chat Application project! This project focuses on setting up a development environment, organizing a basic folder structure, defining API endpoints and data models, and testing endpoints with Postman.
+Welcome to the Firebase Chat Application! This project focuses on setting up a development environment, organizing a basic folder structure, defining API endpoints and data models, and testing endpoints with Postman.
 By the end of this project, you'll have a fully functioning backend setup using Firebase Functions and Firestore, along with a streamlined development workflow.
 
 ![Project Banner](https://firebasestorage.googleapis.com/v0/b/radicalx-development.appspot.com/o/Quests%2FIntroToGenAI%2FVolume.png?alt=media&token=8562b237-27c3-4c1f-88c6-f4ccaff6cbc0)
